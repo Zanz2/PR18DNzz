@@ -1,3 +1,4 @@
 # PR18DNzz
-Žan Žagar
+Ime: Žan Žagar
+
 Podatkovno Rudarjenje repo za domače naloge // Data mining homework repo
